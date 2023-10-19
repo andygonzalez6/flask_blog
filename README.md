@@ -3,7 +3,7 @@ This webapp was created following: Python Flask Tutorial: Full-Featured Web App 
 This webapp has modified css and html, upload-picture logic, forgot-password logic, and token-generation.
 
 Login Page:
-![Screenshot 2023-10-18 165618](https://github.com/andygonzalez6/flask_blog/assets/88167882/051f46bb-2718-4efb-a005-179de4efb84b)
+![Screenshot 2023-10-18 165618](https://github.com/andygonzalez6/flask_blog/assets/88167882/9997f897-9059-403d-a085-8127968a4997)
 Home Page:
 ![Screenshot 2023-10-18 165636](https://github.com/andygonzalez6/flask_blog/assets/88167882/3846b11f-1719-448f-9d67-f4758f9fc9bc)
 Account Page:
